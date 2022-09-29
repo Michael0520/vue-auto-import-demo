@@ -8,7 +8,7 @@ import { RouterLink } from 'vue-router';
 const num = ref(1);
 const name = reactive({ num: 0 });
 
-const { t } = useI18n();
+// const { t } = useI18n();
 </script>
 
 <template>
